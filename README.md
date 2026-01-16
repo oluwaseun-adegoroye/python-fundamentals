@@ -12,11 +12,6 @@ Started: [January 3rd, 2026]
 - Day 3: Calculator - Simple arithmetic calculator
 - Day 4: Grade Calculator - Calculate letter grades from scores - Takes a numerical score and converts it to a letter grade (A-F) with appropriate messages
 - Day 5: Multiplication Table - Multiplication tables generator with pattern - Creates multiplication tables for any number from 1-12
-- Day 6: Temperature Converter - Convert between Celsius, Fahrenheit, and Kelvin
-
-  Week 2
-- Day 8: Number Guessing Game - Interactive guessing game
-- Day 9: Functions Practice - Learning to write functions
 
   Skills Learned
 
@@ -29,6 +24,6 @@ Started: [January 3rd, 2026]
 
   Statistics
 
-- Days coded: 6
-- Programs written: 6
-- HackerRank problems solved: 15+
+- Days coded: 5
+- Programs written: 5
+- HackerRank problems solved: 10+
