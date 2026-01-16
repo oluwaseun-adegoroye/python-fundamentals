@@ -2,7 +2,7 @@ Python Fundamentals - My Learning Journey
 
   Progress Tracker
 
-Started: [January 2026]
+Started: [January 3rd, 2026]
 
   Projects
 
@@ -17,7 +17,6 @@ Started: [January 2026]
   Week 2
 - Day 8: Number Guessing Game - Interactive guessing game
 - Day 9: Functions Practice - Learning to write functions
-- (More to come...)
 
   Skills Learned
 
