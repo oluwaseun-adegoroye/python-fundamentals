@@ -32,5 +32,3 @@ Started: [January 3rd, 2026]
 - Days coded: 6
 - Programs written: 6
 - HackerRank problems solved: 15+
-- Day 4: Grade Calculator - 
-- Day 5: Multiplication Table Generator - 
